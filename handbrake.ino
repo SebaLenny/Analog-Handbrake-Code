@@ -1,11 +1,11 @@
 ///// IMPORTANT
 // install this on Arduino IDE: https://github.com/MHeironimus/ArduinoJoystickLibrary
-
+//
 // Download https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip
 // In the Arduino IDE, select Sketch > Include Library > Add .ZIP Library ...
-// ... Browse to where the downloaded ZIP file is located and click Open. 
-
+// ... Browse to where the downloaded ZIP file is located and click Open.
 /////
+
 
 #include <Joystick.h>
 
